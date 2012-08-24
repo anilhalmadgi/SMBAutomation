@@ -1,0 +1,1170 @@
+
+=============== [2012/08/02 12:48:35, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:48:35] INFO:    SSHExec initializing ...
+[12:48:35] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: username must not be null.
+[12:48:35] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+
+=============== [2012/08/02 12:49:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:49:56] INFO:    SSHExec initializing ...
+[12:49:56] INFO:    Session initialized and associated with user credential tar63t
+[12:49:56] INFO:    SSHExec initialized successfully
+[12:49:56] INFO:    SSHExec trying to connect spike@192.168.30.145
+[12:50:14] ERROR:   Connect fails with the following exception: com.jcraft.jsch.JSchException: Auth fail
+[12:50:14] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 12:53:31, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:53:31] INFO:    SSHExec initializing ...
+[12:53:31] INFO:    Session initialized and associated with user credential testvalsvr
+[12:53:31] INFO:    SSHExec initialized successfully
+[12:53:31] INFO:    SSHExec trying to connect root@192.168.30.141
+[12:53:33] INFO:    SSH connection established
+[12:53:33] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 12:55:24, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:55:24] INFO:    SSHExec initializing ...
+[12:55:24] INFO:    Session initialized and associated with user credential testvalsvr
+[12:55:24] INFO:    SSHExec initialized successfully
+[12:55:24] INFO:    SSHExec trying to connect root@192.168.30.141
+[12:55:27] INFO:    SSH connection established
+[12:55:32] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 12:55:50, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[12:55:50] INFO:    SSHExec initializing ...
+[12:55:50] INFO:    Session initialized and associated with user credential testvalsvr
+[12:55:50] INFO:    SSHExec initialized successfully
+[12:55:50] INFO:    SSHExec trying to connect root@192.168.30.141
+[12:55:52] INFO:    SSH connection established
+[12:56:22] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 13:01:08, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:01:08] INFO:    SSHExec initializing ...
+[13:01:08] INFO:    Session initialized and associated with user credential testvalsvr
+[13:01:08] INFO:    SSHExec initialized successfully
+[13:01:09] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:01:11] INFO:    SSH connection established
+[13:01:41] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 15:40:12, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:40:12] INFO:    SSHExec initializing ...
+[15:40:12] INFO:    Session initialized and associated with user credential testvalsvr
+[15:40:12] INFO:    SSHExec initialized successfully
+[15:40:12] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:40:14] INFO:    SSH connection established
+[15:40:44] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 15:43:26, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:43:26] INFO:    SSHExec initializing ...
+[15:43:26] INFO:    Session initialized and associated with user credential testvalsvr
+[15:43:26] INFO:    SSHExec initialized successfully
+[15:43:26] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:43:28] INFO:    SSH connection established
+[15:43:58] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 15:45:48, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:45:48] INFO:    SSHExec initializing ...
+[15:45:48] INFO:    Session initialized and associated with user credential testvalsvr
+[15:45:48] INFO:    SSHExec initialized successfully
+[15:45:48] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:45:50] INFO:    SSH connection established
+[15:47:30] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 15:48:39, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:48:39] INFO:    SSHExec initializing ...
+[15:48:40] INFO:    Session initialized and associated with user credential testvalsvr
+[15:48:40] INFO:    SSHExec initialized successfully
+[15:48:40] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:48:42] INFO:    SSH connection established
+[15:50:22] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 16:51:52, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:51:52] INFO:    SSHExec initializing ...
+[16:51:52] INFO:    Session initialized and associated with user credential testvalsvr
+[16:51:52] INFO:    SSHExec initialized successfully
+[16:51:52] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:51:54] INFO:    SSH connection established
+[16:53:34] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 17:04:09, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:04:09] INFO:    SSHExec initializing ...
+[17:04:09] INFO:    Session initialized and associated with user credential testvalsvr
+[17:04:09] INFO:    SSHExec initialized successfully
+[17:04:09] INFO:    SSHExec trying to connect root@192.168.30.141
+[17:04:11] INFO:    SSH connection established
+[17:05:51] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 18:06:30, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:06:30] INFO:    SSHExec initializing ...
+[18:06:30] INFO:    Session initialized and associated with user credential testvalsvr
+[18:06:30] INFO:    SSHExec initialized successfully
+[18:06:30] INFO:    SSHExec trying to connect root@192.168.30.141
+[18:06:32] INFO:    SSH connection established
+[18:07:32] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 18:13:28, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[18:13:28] INFO:    SSHExec initializing ...
+[18:13:28] INFO:    Session initialized and associated with user credential testvalsvr
+[18:13:28] INFO:    SSHExec initialized successfully
+[18:13:28] INFO:    SSHExec trying to connect root@192.168.30.141
+[18:13:30] INFO:    SSH connection established
+[18:14:30] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 19:13:38, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[19:13:38] INFO:    SSHExec initializing ...
+[19:13:38] INFO:    Session initialized and associated with user credential testvalsvr
+[19:13:38] INFO:    SSHExec initialized successfully
+[19:13:38] INFO:    SSHExec trying to connect root@192.168.30.141
+[19:13:42] INFO:    SSH connection established
+[19:14:42] INFO:    SSH connection shutdown
+
+=============== [2012/08/02 19:18:15, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[19:18:15] INFO:    SSHExec initializing ...
+[19:18:15] INFO:    Session initialized and associated with user credential testvalsvr
+[19:18:15] INFO:    SSHExec initialized successfully
+[19:18:15] INFO:    SSHExec trying to connect root@192.168.30.141
+[19:18:18] INFO:    SSH connection established
+[19:19:18] INFO:    SSH connection shutdown
+
+=============== [2012/08/03 16:49:11, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:49:11] INFO:    SSHExec initializing ...
+[16:49:11] INFO:    Session initialized and associated with user credential testvalsvr
+[16:49:11] INFO:    SSHExec initialized successfully
+[16:49:11] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:49:14] INFO:    SSH connection established
+[16:50:14] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 15:51:34, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:51:34] INFO:    SSHExec initializing ...
+[15:51:34] INFO:    Session initialized and associated with user credential testvalsvr
+[15:51:34] INFO:    SSHExec initialized successfully
+[15:51:34] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:51:37] INFO:    SSH connection established
+[15:52:37] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 16:13:21, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:13:21] INFO:    SSHExec initializing ...
+[16:13:21] INFO:    Session initialized and associated with user credential testvalsvr
+[16:13:21] INFO:    SSHExec initialized successfully
+[16:13:21] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:13:25] INFO:    SSH connection established
+[16:14:25] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 16:29:27, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:29:27] INFO:    SSHExec initializing ...
+[16:29:27] INFO:    Session initialized and associated with user credential testvalsvr
+[16:29:27] INFO:    SSHExec initialized successfully
+[16:29:27] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:29:33] INFO:    SSH connection established
+[16:29:33] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 16:30:56, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:30:56] INFO:    SSHExec initializing ...
+[16:30:56] INFO:    Session initialized and associated with user credential testvalsvr
+[16:30:56] INFO:    SSHExec initialized successfully
+[16:30:56] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:30:59] INFO:    SSH connection established
+[16:30:59] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 16:32:48, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:32:48] INFO:    SSHExec initializing ...
+[16:32:48] INFO:    Session initialized and associated with user credential testvalsvr
+[16:32:48] INFO:    SSHExec initialized successfully
+[16:32:48] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:32:50] INFO:    SSH connection established
+[16:32:50] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 16:46:54, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[16:46:54] INFO:    SSHExec initializing ...
+[16:46:54] INFO:    Session initialized and associated with user credential testvalsvr
+[16:46:54] INFO:    SSHExec initialized successfully
+[16:46:54] INFO:    SSHExec trying to connect root@192.168.30.141
+[16:46:57] INFO:    SSH connection established
+[16:46:57] INFO:    SSH connection shutdown
+
+=============== [2012/08/09 17:19:14, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[17:19:14] INFO:    SSHExec initializing ...
+[17:19:14] INFO:    Session initialized and associated with user credential testvalsvr
+[17:19:14] INFO:    SSHExec initialized successfully
+[17:19:14] INFO:    SSHExec trying to connect root@192.168.30.141
+[17:19:16] INFO:    SSH connection established
+[17:19:16] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 10:19:13, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:19:13] INFO:    SSHExec initializing ...
+[10:19:13] INFO:    Session initialized and associated with user credential testvalsvr
+[10:19:13] INFO:    SSHExec initialized successfully
+[10:19:13] INFO:    SSHExec trying to connect root@192.168.30.141
+[10:19:16] INFO:    SSH connection established
+[10:19:16] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 10:19:58, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:19:58] INFO:    SSHExec initializing ...
+[10:19:58] INFO:    Session initialized and associated with user credential testvalsvr
+[10:19:58] INFO:    SSHExec initialized successfully
+[10:19:58] INFO:    SSHExec trying to connect root@192.168.30.141
+[10:20:00] INFO:    SSH connection established
+[10:20:00] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 10:21:33, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:21:33] INFO:    SSHExec initializing ...
+[10:21:33] INFO:    Session initialized and associated with user credential testvalsvr
+[10:21:33] INFO:    SSHExec initialized successfully
+[10:21:33] INFO:    SSHExec trying to connect root@192.168.30.141
+[10:21:36] INFO:    SSH connection established
+[10:21:36] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 10:22:17, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[10:22:17] INFO:    SSHExec initializing ...
+[10:22:17] INFO:    Session initialized and associated with user credential testvalsvr
+[10:22:17] INFO:    SSHExec initialized successfully
+[10:22:17] INFO:    SSHExec trying to connect root@192.168.30.141
+[10:22:19] INFO:    SSH connection established
+[10:22:19] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 13:14:28, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:14:28] INFO:    SSHExec initializing ...
+[13:14:28] INFO:    Session initialized and associated with user credential testvalsvr
+[13:14:28] INFO:    SSHExec initialized successfully
+[13:14:28] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:14:31] INFO:    SSH connection established
+[13:14:32] INFO:    SSH connection shutdown
+[13:14:32] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+
+=============== [2012/08/10 13:21:00, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:21:00] INFO:    SSHExec initializing ...
+[13:21:00] INFO:    Session initialized and associated with user credential testvalsvr
+[13:21:00] INFO:    SSHExec initialized successfully
+[13:21:00] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:21:02] INFO:    SSH connection established
+
+=============== [2012/08/10 13:23:10, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:23:10] INFO:    SSHExec initializing ...
+[13:23:10] INFO:    Session initialized and associated with user credential testvalsvr
+[13:23:10] INFO:    SSHExec initialized successfully
+[13:23:10] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:23:13] INFO:    SSH connection established
+
+=============== [2012/08/10 13:24:28, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:24:28] INFO:    SSHExec initializing ...
+[13:24:28] INFO:    Session initialized and associated with user credential testvalsvr
+[13:24:28] INFO:    SSHExec initialized successfully
+[13:24:28] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:24:33] INFO:    SSH connection established
+
+=============== [2012/08/10 13:28:12, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:28:12] INFO:    SSHExec initializing ...
+[13:28:12] INFO:    Session initialized and associated with user credential testvalsvr
+[13:28:12] INFO:    SSHExec initialized successfully
+[13:28:12] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:28:15] INFO:    SSH connection established
+[13:28:15] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 13:30:54, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:30:54] INFO:    SSHExec initializing ...
+[13:30:54] INFO:    Session initialized and associated with user credential testvalsvr
+[13:30:54] INFO:    SSHExec initialized successfully
+[13:30:54] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:30:57] INFO:    SSH connection established
+[13:30:57] INFO:    SSH connection shutdown
+[13:30:57] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+
+=============== [2012/08/10 13:35:33, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:35:33] INFO:    SSHExec initializing ...
+[13:35:33] INFO:    Session initialized and associated with user credential testvalsvr
+[13:35:33] INFO:    SSHExec initialized successfully
+[13:35:33] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:35:35] INFO:    SSH connection established
+[13:36:36] INFO:    SSH connection shutdown
+[13:36:36] ERROR:   Disconnect fails with the following exception: java.lang.NullPointerException
+
+=============== [2012/08/10 13:37:44, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:37:44] INFO:    SSHExec initializing ...
+[13:37:44] INFO:    Session initialized and associated with user credential testvalsvr
+[13:37:44] INFO:    SSHExec initialized successfully
+[13:37:44] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:37:46] INFO:    SSH connection established
+[13:38:47] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 13:41:24, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:41:24] INFO:    SSHExec initializing ...
+[13:41:24] INFO:    Session initialized and associated with user credential testvalsvr
+[13:41:24] INFO:    SSHExec initialized successfully
+[13:41:24] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:41:27] INFO:    SSH connection established
+
+=============== [2012/08/10 13:42:00, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:42:00] INFO:    SSHExec initializing ...
+[13:42:00] INFO:    Session initialized and associated with user credential testvalsvr
+[13:42:00] INFO:    SSHExec initialized successfully
+[13:42:00] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:42:03] INFO:    SSH connection established
+[13:42:04] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 13:55:06, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[13:55:06] INFO:    SSHExec initializing ...
+[13:55:06] INFO:    Session initialized and associated with user credential testvalsvr
+[13:55:06] INFO:    SSHExec initialized successfully
+[13:55:06] INFO:    SSHExec trying to connect root@192.168.30.141
+[13:55:08] INFO:    SSH connection established
+[13:57:09] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 14:00:38, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:00:38] INFO:    SSHExec initializing ...
+[14:00:38] INFO:    Session initialized and associated with user credential testvalsvr
+[14:00:38] INFO:    SSHExec initialized successfully
+[14:00:38] INFO:    SSHExec trying to connect root@192.168.30.141
+[14:00:40] INFO:    SSH connection established
+[14:03:42] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 14:58:19, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[14:58:19] INFO:    SSHExec initializing ...
+[14:58:19] INFO:    Session initialized and associated with user credential testvalsvr
+[14:58:19] INFO:    SSHExec initialized successfully
+[14:58:19] INFO:    SSHExec trying to connect root@192.168.30.141
+[14:58:22] INFO:    SSH connection established
+[14:59:23] INFO:    SSH connection shutdown
+
+=============== [2012/08/10 15:01:57, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[15:01:57] INFO:    SSHExec initializing ...
+[15:01:57] INFO:    Session initialized and associated with user credential testvalsvr
+[15:01:57] INFO:    SSHExec initialized successfully
+[15:01:57] INFO:    SSHExec trying to connect root@192.168.30.141
+[15:02:00] INFO:    SSH connection established
+[15:05:02] INFO:    SSH connection shutdown
+
+=============== [2012/08/22 11:15:57, net.neoremind.sshxcute.core.SSHExec.<clinit>:80] ====================
+
+[11:15:57] INFO:    SSHExec initializing ...
+[11:15:57] INFO:    Session initialized and associated with user credential testvalsvr
+[11:15:57] INFO:    SSHExec initialized successfully
+[11:15:57] INFO:    SSHExec trying to connect root@192.168.30.141
+[11:16:00] INFO:    SSH connection established
+[11:17:00] INFO:    Command is cd /usr/local/tsa/xml-01/var/log ; grep 'grtest3' tsa-admax-jmslistener.log null 
+[11:17:00] INFO:    Connection channel established succesfully
+[11:17:00] INFO:    Start to run command
+[11:17:01] INFO:    tsa-admax-jmslistener.log:2012-07-27 10:33:39.166 (3) [Thread-150]: Submitted executor job for grtest3
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.170 (3) [pool-3-thread-3]: grtest3 is a new account.
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.170 (3) [pool-3-thread-3]: Creating new (enhanced) tsa account: grtest3
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.315 (3) [pool-3-thread-3]: Committing account common tables for grtest3
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.332 (3) [pool-3-thread-3]: grtest3 has been assigned accountID 10001430
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.332 (3) [pool-3-thread-3]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.350 (3) [pool-3-thread-3]: grtest3-1 has no parent. Creating...
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.354 (3) [pool-3-thread-3]: Updating advert budget for grtest3_1000000024_733_grtest3-1
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.357 (3) [pool-3-thread-3]: grtest3-2 has no parent. Creating.
+[11:17:01] INFO:    ..
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.360 (3) [pool-3-thread-3]: Updating advert budget for grtest3_1000000024_733_grtest3-2
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.363 (3) [pool-3-thread-3]: Start processing DEPLOY request (2080392) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.363 (3) [pool-3-thread-3]: Performing sync for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.379 (3) [pool-3-thread-3]: grtest3 has 2 new campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 10:33:39.379 (3) [pool-3-thread-3]: grtest3 requires 1 new users.
+tsa-admax-jmslistener.log:2012-07-27 10:35:59.468 (3) [pool-3-thread-3]: Assigned new seUserID: 20001460 to grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 10:35:59.468 (3) [pool-3-thread-3]: Assigned new seUserID: 20001460 to grtest3_1000000024_733_grtest3-1_GM
+tsa-admax-jmslistener.log:2012-07-27 10:35:59.471 (3) [pool-3-thread-3]: Creating grtest3_1000000024_733_grtest3-1_GT St
+[11:17:01] INFO:    atus: Paused
+tsa-admax-jmslistener.log:2012-07-27 10:35:59.471 (3) [pool-3-thread-3]: Creating grtest3_1000000024_733_grtest3-1_GM Status: Paused
+tsa-admax-jmslistener.log:2012-07-27 10:36:46.205 (3) [pool-3-thread-3]: grtest3 has 2 new campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 10:36:46.205 (3) [pool-3-thread-3]: grtest3 requires 1 new users.
+tsa-admax-jmslistener.log:2012-07-27 10:39:06.348 (3) [pool-3-thread-3]: Assigned new seUserID: 20001461 to grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 10:39:06.348 (3) [pool-3-thread-3]: Assigned new seUserID: 20001461 to grtest3_1000000024_733_grtest3-2_GM
+tsa-admax-jmslistener.log:2012-07-27 10:39:06.351 (3) [pool-3-thread-3]: Creating grtest3_1000000024_733_grtest3-2_GT Status: Paused
+tsa-admax-jmslistener.log:2012-07-27 10:39:06.351 (3) [pool-3-thread-3]: Creating grtest3_1000000024_733_grtest3-2_GM Status: Paused
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.325 (3) [pool-3-thread-3]: grtest3-1_GM has no applicable GCE errors.
+t
+[11:17:01] INFO:    sa-admax-jmslistener.log:2012-07-27 10:39:14.330 (3) [pool-3-thread-3]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.337 (3) [pool-3-thread-3]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.342 (3) [pool-3-thread-3]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.344 (3) [pool-3-thread-3]: Updating Admax bid for grtest3_1000000024_733_grtest3-1_GT Bid: 1.0
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.352 (3) [pool-3-thread-3]: Updating Admax bid for grtest3_1000000024_733_grtest3-1_GM Bid: 1.0
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.354 (3) [pool-3-thread-3]: Updating Admax bid for grtest3_1000000024_733_grtest3-2_GT Bid: 1.0
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.356 (3) [pool-3-thread-3]: Updating Admax bid for grtest3_1000000024_733_grtest3-2_GM Bid: 1.0
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.356 (3) [pool-3-thread-3]: grtest3 has 2 campaigns for a SE Update 
+[11:17:01] INFO:    accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.356 (3) [pool-3-thread-3]: grtest3 has 2 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.357 (3) [pool-3-thread-3]: BING - grtest3 has 2 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.357 (3) [pool-3-thread-3]: BING - grtest3 has 2 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.357 (3) [pool-3-thread-3]: 8 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.369 (3) [pool-3-thread-3]: Finished sub-campaign processing for DEPLOY deploymentID (2080392). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.369 (3) [pool-3-thread-3]: Finished DEPLOY request for grtest3_1000000024_733_grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 10:39:14.369 (3) [pool-3-thread-3]: Finished DEPLOY request for grtest3_1000000024_733_grtest3-2: SUCCEDED
+tsa-admax-jmslis
+[11:17:01] INFO:    tener.log:2012-07-27 10:39:14.369 (3) [pool-3-thread-3]: Finished DEPLOY request, deploymentID (2080392), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.329 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.330 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.332 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.332 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.653 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.666 (3) [pool-4-thre
+[11:17:01] INFO:    ad-1]: Start processing UPDATE request (ID: 952 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.666 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.695 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.695 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.728 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.728 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.729 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.729 (3) [
+[11:17:01] INFO:    pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:19:58.729 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.878 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.880 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.880 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.897 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.897 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.897 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Cu
+[11:17:01] INFO:    rr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.897 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:20:00.897 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.844 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.852 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.856 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.863 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.873 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslisten
+[11:17:01] INFO:    er.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 952 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 11:20:05.877 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 1
+[11:17:01] INFO:    1:20:05.877 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 952 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.327 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.328 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.329 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.329 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.330 (3) [pool-4-thread-2]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.330 (3) [pool-4-thread-2]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.557 (3) [pool-4-thread-2]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012
+[11:17:01] INFO:    -07-27 11:22:58.566 (3) [pool-4-thread-2]: Start processing UPDATE request (ID: 953 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.566 (3) [pool-4-thread-2]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.584 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.584 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.607 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.607 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.607 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslisten
+[11:17:01] INFO:    er.log:2012-07-27 11:22:58.607 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:22:58.607 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.576 (3) [pool-4-thread-2]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.578 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.578 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.583 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.583 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.584 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2
+[11:17:01] INFO:    _GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.584 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 11:22:59.584 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.194 (3) [pool-4-thread-2]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.199 (3) [pool-4-thread-2]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.203 (3) [pool-4-thread-2]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.207 (3) [pool-4-thread-2]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.213 (3) [pool-4-thread-2]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Updat
+[11:17:01] INFO:    e accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: Finished sub-campaign processing for UPDATE deploymentID (ID: 953 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-2: SUCCEDED
+ts
+[11:17:01] INFO:    a-admax-jmslistener.log:2012-07-27 11:23:04.217 (3) [pool-4-thread-2]: Finished UPDATE request, deploymentID (ID: 953 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.325 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.325 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.326 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.328 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:22:13.328 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.735 (3) [pool-4-thread-1]: Using enhanced campaigns for account gr
+[11:17:01] INFO:    test3
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.743 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 960 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.743 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.774 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.774 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.791 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.791 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.792 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Cur
+[11:17:01] INFO:    r status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.792 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:22:15.792 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.278 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.280 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.280 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.295 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.295 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.295 (3) [pool-4-thread-
+[11:17:01] INFO:    1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.295 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:22:17.295 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.379 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.386 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.390 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.398 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.403 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.406 (3) [pool-4-thread-1]: gr
+[11:17:01] INFO:    test3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.406 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.406 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.406 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.407 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.407 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 960 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.407 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.407 (3) [pool-4-thread-1]: Finished UPDAT
+[11:17:01] INFO:    E request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:22:22.407 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 960 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.324 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.325 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.326 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.327 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:26:43.327 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.014 (3) [pool-4-thread-1]: Usi
+[11:17:01] INFO:    ng enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.023 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 961 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.023 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.042 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.042 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.063 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.063 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_
+[11:17:01] INFO:    GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.064 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:
+[11:17:01] INFO:    26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.070 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.074 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.078 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.086 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.090 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3)
+[11:17:01] INFO:     [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 961 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.094 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.095 (3) [pool-4-thr
+[11:17:01] INFO:    ead-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:26:44.095 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 961 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.351 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.351 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.352 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.353 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.354 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:32:13.354 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.181 (3) 
+[11:17:01] INFO:    [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.190 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 963 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.190 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.208 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.208 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.228 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: grtest3_100
+[11:17:01] INFO:    0000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.229 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmsliste
+[11:17:01] INFO:    ner.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.240 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.243 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.249 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.253 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.257 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-
+[11:17:01] INFO:    07-27 13:32:14.261 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 963 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:32:
+[11:17:01] INFO:    14.261 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:32:14.261 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 963 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:48:13.329 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:48:13.330 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:48:13.331 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:48:13.331 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.062 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.071 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 964 jobTypeID 4 tryCount: 1 isFailed: false is
+[11:17:01] INFO:    Finished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.071 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.154 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.154 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.330 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.330 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jm
+[11:17:02] INFO:    slistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.331 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2
+[11:17:02] INFO:    _GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.348 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.352 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.357 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.361 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.371 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-lis
+[11:17:02] INFO:    tings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 964 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:48:14.375 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 964 jobTypeID 4 tryCount: 
+[11:17:02] INFO:    1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.327 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.328 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.328 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.329 (3) [pool-4-thread-2]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.329 (3) [pool-4-thread-2]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.628 (3) [pool-4-thread-2]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.637 (3) [pool-4-thread-2]: Start processing UPDATE request (ID: 965 jobTypeID 4 tryCount
+[11:17:02] INFO:    : 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.637 (3) [pool-4-thread-2]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.653 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.653 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.672 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.672 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr statu
+[11:17:02] INFO:    s: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.673 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_10
+[11:17:02] INFO:    00000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.683 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.687 (3) [pool-4-thread-2]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.690 (3) [pool-4-thread-2]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.694 (3) [pool-4-thread-2]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.697 (3) [pool-4-thread-2]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for 
+[11:17:02] INFO:    a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: Finished sub-campaign processing for UPDATE deploymentID (ID: 965 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:53:28.701 (3) [pool-4-thread-2]: Finished UPDATE request, deploymentID (ID: 965 
+[11:17:02] INFO:    jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.325 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.325 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.326 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.328 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.328 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.749 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.758 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 96
+[11:17:02] INFO:    6 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.758 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.774 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.774 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.793 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.793 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a sta
+[11:17:02] INFO:    tus update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.794 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.804 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.804 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.804 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.804 (3) [pool-4
+[11:17:02] INFO:    -thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.804 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.805 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.808 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.811 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.815 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.818 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: grtest
+[11:17:02] INFO:    3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.822 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 966 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.823 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.823 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 13:57:43.823 (3) [pool-4-thread-1]: Finished UPDATE request, 
+[11:17:02] INFO:    deploymentID (ID: 966 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.325 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.327 (3) [pool-4-thread-2]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.327 (3) [pool-4-thread-2]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.660 (3) [pool-4-thread-2]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.668 (3) [pool-4-thread-2]: Start processing UPDATE request (ID: 967 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 2 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.668 (3) [pool-4-thread-2]: Performing update for account: grtest3 ID#10001430
+[11:17:02] INFO:    
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.680 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.680 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.707 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.707 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.707 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.707 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:27:43.707 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.636 (3) [pool-4-thre
+[11:17:02] INFO:    ad-2]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.643 (3) [pool-4-thread-2]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.647 (3) [pool-4-thread-2]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-thread-2]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.649 (3) [pool-4-
+[11:17:02] INFO:    thread-2]: Finished sub-campaign processing for UPDATE deploymentID (ID: 967 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 2 submitted, 2 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.650 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:27:48.650 (3) [pool-4-thread-2]: Finished UPDATE request, deploymentID (ID: 967 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.326 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.329 
+[11:17:02] INFO:    (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.329 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.699 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.709 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 968 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.709 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.726 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.726 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.754 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a sta
+[11:17:02] INFO:    tus update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.754 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.754 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.755 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:31:58.755 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.121 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.127 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.127 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) 
+[11:17:02] INFO:    [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.133 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.137 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.141 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmsliste
+[11:17:02] INFO:    ner.log:2012-07-27 14:32:01.144 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.148 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.151 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 968 jobTypeID 4 try
+[11:17:02] INFO:    Count: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:32:01.152 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 968 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.325 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.327 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener
+[11:17:02] INFO:    .log:2012-07-27 14:33:28.328 (3) [pool-4-thread-2]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.328 (3) [pool-4-thread-2]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.771 (3) [pool-4-thread-2]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.780 (3) [pool-4-thread-2]: Start processing UPDATE request (ID: 970 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.780 (3) [pool-4-thread-2]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.795 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.795 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.807 (3) [pool-4-thread-2]: grtest3_1000000024_733_gr
+[11:17:02] INFO:    test3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.807 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.807 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.808 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:33:28.808 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.745 (3) [pool-4-thread-2]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.746 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.746 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log
+[11:17:02] INFO:    :2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.757 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.765 (3) [pool-4-thread-2]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.768 (3) [pool-4-thread-2]: grtest3-1_GT has no applicable G
+[11:17:02] INFO:    CE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.772 (3) [pool-4-thread-2]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.776 (3) [pool-4-thread-2]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.779 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.779 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: Finished sub-campaign processing for UPDATE deployme
+[11:17:02] INFO:    ntID (ID: 970 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:33:29.780 (3) [pool-4-thread-2]: Finished UPDATE request, deploymentID (ID: 970 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.329 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grt
+[11:17:02] INFO:    est3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.330 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.330 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.888 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.910 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 971 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.910 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.967 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.967 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.988 (3) [pool-4-thread-
+[11:17:02] INFO:    1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.988 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.988 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.988 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:34:58.988 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:34:59.989 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 14:34:59.990 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:34:59.990 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: n
+[11:17:02] INFO:    ull
+tsa-admax-jmslistener.log:2012-07-27 14:35:00.001 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:35:00.001 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:35:00.001 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:35:00.001 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:35:00.001 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.828 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.835 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.839 (3) [pool-4-thread-
+[11:17:02] INFO:    1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.842 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.847 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.850 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.850 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.850 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.850 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.851 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.851 (3) [pool-4-thread-1]: Finished sub-cam
+[11:17:02] INFO:    paign processing for UPDATE deploymentID (ID: 971 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.851 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.851 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:35:04.851 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 971 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.326 (3) [pool-4-thread-2]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.327 (3) [pool-4-thread-2]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.328 (3) [pool-4-thread-2]: Usin
+[11:17:02] INFO:    g parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.329 (3) [pool-4-thread-2]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.329 (3) [pool-4-thread-2]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.679 (3) [pool-4-thread-2]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.694 (3) [pool-4-thread-2]: Start processing UPDATE request (ID: 974 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.694 (3) [pool-4-thread-2]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.719 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.719 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07
+[11:17:02] INFO:    -27 14:42:28.738 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.738 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.738 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.739 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:42:28.739 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.114 (3) [pool-4-thread-2]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.115 (3) [pool-4-thread-2]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.115 (3) [pool-4-thread-2]: Updating grtest3_1
+[11:17:02] INFO:    000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.128 (3) [pool-4-thread-2]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.132 (3) [pool-4-thread-2]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:
+[11:17:02] INFO:    42:30.138 (3) [pool-4-thread-2]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.146 (3) [pool-4-thread-2]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.149 (3) [pool-4-thread-2]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-
+[11:17:02] INFO:    4-thread-2]: Finished sub-campaign processing for UPDATE deploymentID (ID: 974 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:42:30.153 (3) [pool-4-thread-2]: Finished UPDATE request, deploymentID (ID: 974 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.326 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.328 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.328 (
+[11:17:02] INFO:    3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.541 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.548 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 975 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 2 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.548 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.560 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.560 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.581 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.581 (3) [pool-4-thread-1]: grtest3_100000
+[11:17:02] INFO:    0024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.581 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.581 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 14:46:43.581 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.619 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.624 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.627 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: gr
+[11:17:02] INFO:    test3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 975 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 2 submitted, 2 ok.
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 14:46:45.630 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 975 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslisten
+[11:17:02] INFO:    er.log:2012-07-27 15:02:43.331 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.331 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.332 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.333 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.334 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.334 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.766 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.775 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 977 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s)
+[11:17:02] INFO:    .
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.775 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.801 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.801 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.820 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.821 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.821 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.821 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:02:43.821 (3) [pool-4-thread-1]: g
+[11:17:02] INFO:    rtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.063 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-1_GT
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.065 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.065 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.085 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.085 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.085 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:02:45.085 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+t
+[11:17:02] INFO:    sa-admax-jmslistener.log:2012-07-27 15:02:45.085 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.101 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.107 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.111 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.115 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.119 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.123 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.123 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log
+[11:17:02] INFO:    :2012-07-27 15:02:50.123 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.123 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.124 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.124 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 977 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.124 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.124 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:02:50.124 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 977 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false),
+[11:17:02] INFO:     account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.329 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.330 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.330 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.585 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.594 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 978 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false
+[11:17:02] INFO:    ) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.594 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.610 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.610 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2
+[11:17:02] INFO:    012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.633 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't hav
+[11:17:02] INFO:    e a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.639 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.642 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.646 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.650 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.654 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa
+[11:17:02] INFO:    -admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.657 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 978 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.658 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.658 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:06:13.658 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 978 jobTypeID 4 tryCount: 1 isFailed: fal
+[11:17:02] INFO:    se isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.327 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.328 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.329 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.329 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.633 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.650 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 980 jobTypeID 4 tryCount: 1 isFailed: f
+[11:17:02] INFO:    alse isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.650 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.665 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.665 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.675 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.675 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status update. Curr status: Paused
+tsa-a
+[11:17:02] INFO:    dmax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GT Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.676 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-2_GM Status: null
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.705 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.706 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GT target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.706 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.706 (3) [pool-4-thread-1]:
+[11:17:02] INFO:     grtest3_1000000024_733_grtest3-2_GM target sync:
+tsa-admax-jmslistener.log:2012-07-27 15:09:28.706 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-2_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.446 (3) [pool-4-thread-1]: SE Update account will run for grtest3_1000000024_733_grtest3-2_GT
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.455 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.464 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.468 (3) [pool-4-thread-1]: grtest3-2_GM has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.471 (3) [pool-4-thread-1]: grtest3-2_GT has no applicable BCE errors.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Upd
+[11:17:02] INFO:    ate groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 980 jobTypeID 4 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-07-27 15:09:33.475 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 980 jobTypeI
+[11:17:02] INFO:    D 4 tryCount: 1 isFailed: false isFinished: false), account grtest3
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.066 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GM->grtest3-1]
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.067 (3) [pool-4-thread-1]: Using parent in job...[grtest3-1_GT->grtest3-1]
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.068 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GM->grtest3-2]
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.069 (3) [pool-4-thread-1]: Using parent in job...[grtest3-2_GT->grtest3-2]
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.071 (3) [pool-4-thread-1]: -------- Updating account grtest3 (10001430)
+tsa-admax-jmslistener.log:2012-08-09 05:22:16.071 (3) [pool-4-thread-1]: Fetching data from MMW for account grtest3
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.662 (3) [pool-4-thread-1]: Using enhanced campaigns for account grtest3
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.735 (3) [pool-4-thread-1]: Start processing UPDATE request (ID: 10 jobType
+[11:17:02] INFO:    ID 6 tryCount: 1 isFailed: false isFinished: false) for account grtest3. 4 campaign(s).
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.735 (3) [pool-4-thread-1]: Performing update for account: grtest3 ID#10001430
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.779 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GT Status: null
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.779 (3) [pool-4-thread-1]: Updating grtest3_1000000024_733_grtest3-1_GM Status: null
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.864 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT doesn't have a status update. Curr status: Paused
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.865 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT target sync:
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.865 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GT has no updated targets.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.865 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM doesn't have a status updat
+[11:17:02] INFO:    e. Curr status: Paused
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.865 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM target sync:
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.865 (3) [pool-4-thread-1]: grtest3_1000000024_733_grtest3-1_GM has no updated targets.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.942 (3) [pool-4-thread-1]: grtest3-1_GM has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.959 (3) [pool-4-thread-1]: grtest3-1_GT has no applicable GCE errors.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.964 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: BING - grtest3 has 0 campaigns for a SE Update groups-listings sync.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Update accounts sync.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: grtest3 has 0 campaigns for a SE Upd
+[11:17:02] INFO:    ate groups-listings sync.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: 0 Scheduled Job Items to save for grtest3.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: Finished sub-campaign processing for UPDATE deploymentID (ID: 10 jobTypeID 6 tryCount: 1 isFailed: false isFinished: false). account grtest3. 4 submitted, 4 ok.
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-1: SUCCEDED
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: Finished UPDATE request for grtest3-2: SUCCEDED
+tsa-admax-jmslistener.log:2012-08-09 05:22:17.965 (3) [pool-4-thread-1]: Finished UPDATE request, deploymentID (ID: 10 jobTypeID 6 tryCount: 1 isFailed: false isFinished: false), account grtest3
+
+[11:17:02] INFO:    Connection channel closed
+[11:17:02] INFO:    Check if exec success or not ... 
+[11:17:02] INFO:    Execution failed while executing command: cd /usr/local/tsa/xml-01/var/log ; grep 'grtest3' tsa-admax-jmslistener.log null 
+[11:17:02] INFO:    Error message: grep: null: No such file or directory
+[11:17:02] INFO:    Now wait 5 seconds to begin next task ...
+[11:17:07] INFO:    Connection channel disconnect
+[11:17:07] INFO:    SSH connection shutdown

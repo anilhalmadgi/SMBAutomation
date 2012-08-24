@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<testsuite>
+    <!-- This is the database connection details for connecting to test database -->
+    <dbcon>
+       <host>192.168.30.145</host>
+       <user>spike</user>
+       <pass>tar63t</pass>
+    </dbcon>
+    
+   <!-- This is the ssh connection details for connecting to test system -->
+    <sshcon>
+       <host>192.168.30.141</host>
+       <user>root</user>
+       <pass>testvalsvr</pass>
+    </sshcon>
+    
+    <!-- Details of the account for which the testcase needs to be run -->
+    <testAccountDetails>
+        <accountID>10001453</accountID>
+        <seUserID></seUserID>
+    </testAccountDetails>  
+    
+    
+   <testSuiteDetails>
+       <!-- Please fill in the parameters required for your script -->
+       <script>content_editor_google.sh</script>
+       <debugLevel>3</debugLevel>
+       <date>2012-08-02</date>
+       <startDate></startDate>
+       <endDate></endDate>
+       <distributionID>3</distributionID>
+   </testSuiteDetails>
+       
+   <testCase>
+       <caseDescription>Testing the status change of the campaign from paused to active</caseDescription>
+       <changeRequest>update</changeRequest>
+       <initialValue>Active</initialValue>
+       <expectedResult>Active</expectedResult>
+   </testCase>
+   
+   <testCase>
+        <caseDescription>Testing the status change of the campaign from active to paused</caseDescription>
+        <changeRequest>update</changeRequest>
+        <initialValue>Paused</initialValue>
+        <expectedResult>Paused</expectedResult>
+   </testCase>
+</testsuite>

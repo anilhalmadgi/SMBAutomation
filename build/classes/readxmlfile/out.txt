@@ -1,0 +1,28 @@
+2012/Aug/23 19:08:02]  =======================================
+2012/Aug/23 19:08:02]         Welcome to QA Automation        
+2012/Aug/23 19:08:02]  =======================================
+2012/Aug/23 19:08:02]  Reading Values from XML file
+2012/Aug/23 19:08:06]  Connecting to Database server
+2012/Aug/23 19:08:06]  Campaign id 31274
+2012/Aug/23 19:08:06]  Executing Test case 1 : Testing the status change of the campaign from paused to active
+2012/Aug/23 19:08:07]  Batch Executed for loop 0
+2012/Aug/23 19:08:07]  Execute Script now 0
+2012/Aug/23 19:08:37]  Sleeping for 60 sec 0
+2012/Aug/23 19:09:37]  Waiting 60 sec for the database to update 0
+2012/Aug/23 19:10:37]  Test case executed successfully
+2012/Aug/23 19:10:37]  The campaign status is Active
+2012/Aug/23 19:10:37]  Executing Test case 2 : Testing the status change of the campaign from active to paused
+2012/Aug/23 19:10:38]  Batch Executed for loop 1
+2012/Aug/23 19:10:38]  Execute Script now 1
+2012/Aug/23 19:11:08]  Sleeping for 60 sec 1
+2012/Aug/23 19:12:08]  Waiting 60 sec for the database to update 1
+2012/Aug/23 19:13:08]  Test case executed successfully
+2012/Aug/23 19:13:08]  The campaign status is Paused
+2012/Aug/23 19:13:08]  Disconnected from database
+2012/Aug/23 19:13:08]  =============================================
+2012/Aug/23 19:13:08]  Summary of the test cases executed
+2012/Aug/23 19:13:08]  =============================================
+2012/Aug/23 19:13:08]  Total Number of test cases :2
+2012/Aug/23 19:13:08]  Total Number of test case(s) Passed:2
+2012/Aug/23 19:13:08]  Total Number of test case(s) Failed:0
+2012/Aug/23 19:13:08]  =============================================
